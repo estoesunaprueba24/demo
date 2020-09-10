@@ -3,6 +3,10 @@
 Basic Description of the project!
 
 
-##Subtitulo
+## Subtitulo
 
 Más Texto
+
+## otra fase
+
+1. Abrir index.html en tu navegador 
